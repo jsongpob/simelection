@@ -1,0 +1,32 @@
+body {
+    background-color: black;
+}
+
+.logo-mono-font {
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 600;
+}
+.ui-mono-font {
+    font-family: 'Roboto Mono', monospace;
+}
+.ui-thai-font {
+    font-family: 'Chakra Petch', sans-serif;
+}
+
+.vote-chart {
+    width: 43rem;
+    height: 43rem;
+}
+.vote-btn-chart {
+    width: 5rem;
+    height: 5rem;
+}
+
+.card-img-top {
+    background-repeat: none;
+    background-size: cover;
+}
+
+.on-hover:hover {
+    opacity: 70%;
+}
